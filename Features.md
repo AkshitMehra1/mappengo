@@ -1,4 +1,4 @@
-**Travel Mate**
+**MappenGo**
 
 + Destinations
   + Most popular cities & Other cities
@@ -6,6 +6,7 @@
      + Temperature details
      + Fun Facts
      + On map : Nearby hangout places, Monuments, Restaurants and Shopping places
+                In future: "Heat maps"
      + City Trends (Most popular tweets of city during that time)
 + Travel
   + My Trips
