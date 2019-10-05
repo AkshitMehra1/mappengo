@@ -1,6 +1,6 @@
 ## Inspiration
 
-**MappenGo** was built with two things in mind, community growth and sustainable travel. It is one of it's kind, all in one travel scheduling and vacation spot management application that empowers the user with real-time crowd data at a particular destination, so that they can choose with their own convenience thier next travel.
+**[MappenGo](https://github.com/shardic1/mappengo)** was built with two things in mind, community growth and sustainable travel. It is one of it's kind, all in one travel scheduling and vacation spot management application that empowers the user with real-time crowd data at a particular destination, so that they can choose with their own convenience thier next travel.
 
 ## What it does
 
