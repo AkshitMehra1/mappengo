@@ -8,7 +8,7 @@ MappenGo, being community driven, while serving as an all-in-one travel app, emp
 
 ## How we built it
 
-The application is itself derived from an open-source project, provided under an ![MIT License] (free to use 'as-is'). We scraped some of the features that we thought were more or less commercially driven, and gave the application a robust feel. The forked source code is altered to provide room for more features and in future, implement our much anticipated and thought-of "Heat Maps".
+The application is itself derived from an open-source project, provided under an ```MIT License``` (free to use 'as-is'). We scraped some of the features that we thought were more or less commercially driven, and gave the application a robust feel. The forked source code is altered to provide room for more features and in future, implement our much anticipated and thought-of "Heat Maps".
 
 ## Challenges we ran into
 
