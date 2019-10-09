@@ -25,3 +25,7 @@ We learnt that forking an open-source is much, much harder than it looks. It alm
 ## What's next for MappenGo
 
 MappenGo will continue to be a community driven appliction for professional travellers, travel enthusiasts, and the common folk in general, at least for a long time. Our main goal was, is, and will be to cater to the needs of the community to build a strong user base, which will in turn foster a rapid growth by word of mouth.
+
+## Why did we wanted to create it
+
+We wanted to support Sustainable tourism so the people dont have to go to the messy crowded places but instead they can find something which is very less crowded and has the same feeling to travel. We focused the app on every type of people that would travel in any sort of manner.
